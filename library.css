@@ -124,3 +124,6 @@ a {
 .form-control div {
   padding: 30px 0px;
 }
+#book-list{
+font-size:10px !important;
+}
