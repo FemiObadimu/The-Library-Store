@@ -113,7 +113,7 @@ document.getElementById("book-list").addEventListener("click", function (e) {
 });
 
 
-
+//Using Prototype Methods was cool
 
 
 
